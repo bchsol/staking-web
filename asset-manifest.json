@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/staking-web/static/css/main.08885c06.css",
+    "main.js": "/staking-web/static/js/main.f2e3b20d.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/staking-web/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/staking-web/index.html",
+    "main.08885c06.css.map": "/staking-web/static/css/main.08885c06.css.map",
+    "main.f2e3b20d.js.map": "/staking-web/static/js/main.f2e3b20d.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/staking-web/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08885c06.css",
+    "static/js/main.f2e3b20d.js"
+  ]
+}
